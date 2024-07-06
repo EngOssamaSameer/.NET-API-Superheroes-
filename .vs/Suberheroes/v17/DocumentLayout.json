@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iRepair\\source\\repos\\Suberheroes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA44BE-FAFF-4CCE-8A67-994B10422885}|Suberheroes.csproj|c:\\users\\irepair\\source\\repos\\suberheroes\\controllers\\superheroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA44BE-FAFF-4CCE-8A67-994B10422885}|Suberheroes.csproj|solutionrelative:controllers\\superheroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA44BE-FAFF-4CCE-8A67-994B10422885}|Suberheroes.csproj|c:\\users\\irepair\\source\\repos\\suberheroes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA44BE-FAFF-4CCE-8A67-994B10422885}|Suberheroes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA44BE-FAFF-4CCE-8A67-994B10422885}|Suberheroes.csproj|c:\\users\\irepair\\source\\repos\\suberheroes\\models\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA44BE-FAFF-4CCE-8A67-994B10422885}|Suberheroes.csproj|solutionrelative:models\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA44BE-FAFF-4CCE-8A67-994B10422885}|Suberheroes.csproj|c:\\users\\irepair\\source\\repos\\suberheroes\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA44BE-FAFF-4CCE-8A67-994B10422885}|Suberheroes.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA44BE-FAFF-4CCE-8A67-994B10422885}|Suberheroes.csproj|c:\\users\\irepair\\source\\repos\\suberheroes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00EA44BE-FAFF-4CCE-8A67-994B10422885}|Suberheroes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuperheroesController.cs",
+              "DocumentMoniker": "C:\\Users\\iRepair\\source\\repos\\Suberheroes\\Controllers\\SuperheroesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SuperheroesController.cs",
+              "ToolTip": "C:\\Users\\iRepair\\source\\repos\\Suberheroes\\Controllers\\SuperheroesController.cs",
+              "RelativeToolTip": "Controllers\\SuperheroesController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:47:00.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iRepair\\source\\repos\\Suberheroes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\iRepair\\source\\repos\\Suberheroes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwCMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:41:08.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\iRepair\\source\\repos\\Suberheroes\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\iRepair\\source\\repos\\Suberheroes\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T20:35:09.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\iRepair\\source\\repos\\Suberheroes\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\iRepair\\source\\repos\\Suberheroes\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:21:54.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Superhero.cs",
+              "DocumentMoniker": "C:\\Users\\iRepair\\source\\repos\\Suberheroes\\Models\\Superhero.cs",
+              "RelativeDocumentMoniker": "Models\\Superhero.cs",
+              "ToolTip": "C:\\Users\\iRepair\\source\\repos\\Suberheroes\\Models\\Superhero.cs",
+              "RelativeToolTip": "Models\\Superhero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:19:36.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
